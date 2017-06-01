@@ -21,11 +21,6 @@ def assertEqual(expected, actual):
 		print "."
 		
 
-assertEqual(3,2)
-
-
-
-
 
 totalCost(15,.2)
 totalCost(5.99, .21)
